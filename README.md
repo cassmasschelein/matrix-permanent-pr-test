@@ -10,7 +10,7 @@ The permanent of a (square) matrix, like the determinant is a polynomial in the 
 
 The permanent commonly appears in problems related to quantum mechanics, and the most common brute-force combinatorial method has time complexity $\mathcal{O}(N!N)$, thus it is useful to look for more efficient algorithms. The two algorithms considered to be the fastest are one by Ryser (based on the inclusion-exclusion principle), and one by Glynn (based on invariant theory).
 
-This library aims to solve the need for an efficient library that solves the permenent of a given matrix.
+This library aims to solve the need for an efficient library that solves the permenent of any given matrix.
 
 # Algorithms
 
